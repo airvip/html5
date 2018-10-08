@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>background</title>
+    <style>
+        #container{
+            width: 400px;
+            height: 400px;
+            /*background: url("../img/01.jpg") 10px 10px/50px 50px no-repeat scroll content-box padding-box,
+                url("../img/02.jpg") 20px 20px/100px 100px no-repeat scroll content-box padding-box,
+                url("../img/03.jpg") 30px 30px/200px 200px no-repeat scroll content-box padding-box #ff6600;*/
+            background-image:url("../img/01.jpg"),url("../img/02.jpg"),url("../img/03.jpg");
+            background-repeat:no-repeat;
+            background-attachment:scroll;
+            background-position:10px 10px, 20px 20px, 30px 30px;
+            background-size:50px 50px,100px 100px,200px 200px;
+            background-origin:content-box;
+            background-clip:padding-box;
+            background-color:#ff6600;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+
+    </div>
+</body>
+</html>
