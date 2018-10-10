@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background/background_image01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background/background_repeat01.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/background/background01.html" afterPath="$PROJECT_DIR$/background/background01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/background/background02.html" afterPath="$PROJECT_DIR$/background/background02.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="background_image01.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="background_image01.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/background/background_image01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="352">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="background_repeat01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/background/background_repeat01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -105,6 +113,7 @@
         <option value="$PROJECT_DIR$/background/background_image01.html" />
         <option value="$PROJECT_DIR$/background/background02.html" />
         <option value="$PROJECT_DIR$/background/background01.html" />
+        <option value="$PROJECT_DIR$/background/background_repeat01.html" />
       </list>
     </option>
   </component>
@@ -195,11 +204,14 @@
       <recent name="E:\workspace\html5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.background_image01.html">
+  <component name="RunManager" selected="JavaScript Debug.background_repeat01.html">
     <configuration default="false" name="background_color01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/background/background_color01.html">
       <method />
     </configuration>
     <configuration default="false" name="background_image01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/background/background_image01.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="background_repeat01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/background/background_repeat01.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -258,14 +270,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.background_color01.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.background_image01.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.background_repeat01.html" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.background_image01.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.background_color01.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.background_repeat01.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.background_image01.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.background_color01.html" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +294,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538966830856</updated>
       <workItem from="1538966832452" duration="6669000" />
-      <workItem from="1539072500565" duration="15691000" />
+      <workItem from="1539072500565" duration="17717000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -293,7 +307,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22360000" />
+    <option name="totallyTimeSpent" value="24386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1056" extended-state="0" />
@@ -422,8 +436,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/background/background_image01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background/background_repeat01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
       </provider>
