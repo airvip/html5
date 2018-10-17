@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background/background_clip01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background/background_size01.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,16 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="background02.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/background/background02.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,8 +54,8 @@
       <file leaf-file-name="background_image01.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/background/background_image01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -111,8 +101,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="background_clip01.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="background_clip01.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/background/background_clip01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="background_size01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/background/background_size01.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
@@ -148,6 +148,7 @@
         <option value="$PROJECT_DIR$/background/background_position01.html" />
         <option value="$PROJECT_DIR$/background/background_origin01.html" />
         <option value="$PROJECT_DIR$/background/background_clip01.html" />
+        <option value="$PROJECT_DIR$/background/background_size01.html" />
       </list>
     </option>
   </component>
@@ -341,7 +342,7 @@
       <workItem from="1538966832452" duration="6669000" />
       <workItem from="1539072500565" duration="20770000" />
       <workItem from="1539239203853" duration="24330000" />
-      <workItem from="1539586929750" duration="2103000" />
+      <workItem from="1539586929750" duration="5568000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -354,7 +355,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53872000" />
+    <option name="totallyTimeSpent" value="57337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -641,14 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/background/background_image01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/background/background_origin01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -658,6 +651,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/background/background_clip01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background/background_image01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background/background_size01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
