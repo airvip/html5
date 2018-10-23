@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-color.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="border-style.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="border-style.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/border/border-style.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
               <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="border-color.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/border/border-color.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -72,6 +83,7 @@
         <option value="$PROJECT_DIR$/border/border02.html" />
         <option value="$PROJECT_DIR$/border/border-width.html" />
         <option value="$PROJECT_DIR$/border/border-style.html" />
+        <option value="$PROJECT_DIR$/border/border-color.html" />
       </list>
     </option>
   </component>
@@ -281,7 +293,7 @@
       <workItem from="1539072500565" duration="20770000" />
       <workItem from="1539239203853" duration="24330000" />
       <workItem from="1539586929750" duration="46508000" />
-      <workItem from="1540190180346" duration="685000" />
+      <workItem from="1540190180346" duration="8435000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -301,7 +313,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98962000" />
+    <option name="totallyTimeSpent" value="106712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -622,6 +634,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/border/border-color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
           <folding />
         </state>
       </provider>
