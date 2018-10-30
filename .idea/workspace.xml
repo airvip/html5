@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-bottom01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-bottom-width.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,101 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="border-color.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-color.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-top01.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-top01.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-top-width.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-top-width.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-top-style.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-top-style.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-top-color.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-top-color.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-right01.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-right01.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-right-width.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-right-width.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-right-style.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-right-style.html">
+      <file leaf-file-name="border-bottom-width.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/border/border-bottom-width.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-right-color.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/border/border-right-color.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="border-bottom01.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/border/border-bottom01.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -133,6 +43,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>-top</find>
+      <find>top</find>
     </findStrings>
     <replaceStrings>
       <replace>-right</replace>
@@ -172,6 +83,7 @@
         <option value="$PROJECT_DIR$/border/border-right-style.html" />
         <option value="$PROJECT_DIR$/border/border-right-color.html" />
         <option value="$PROJECT_DIR$/border/border-bottom01.html" />
+        <option value="$PROJECT_DIR$/border/border-bottom-width.html" />
       </list>
     </option>
   </component>
@@ -278,10 +190,7 @@
       <recent name="E:\workspace\html5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.border-right-width.html">
-    <configuration default="false" name="border-top-width.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-top-width.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.border-bottom-width.html">
     <configuration default="false" name="border-top-style.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-top-style.html">
       <method />
     </configuration>
@@ -292,6 +201,9 @@
       <method />
     </configuration>
     <configuration default="false" name="border-right-width.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-right-width.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="border-bottom-width.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-bottom-width.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -351,19 +263,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-top-width.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-top-style.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-top-style.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-top-style.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-top-width.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-top-style.html" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +297,7 @@
       <workItem from="1540367122095" duration="20767000" />
       <workItem from="1540457002813" duration="4862000" />
       <workItem from="1540517772822" duration="9686000" />
-      <workItem from="1540775273968" duration="16750000" />
+      <workItem from="1540775273968" duration="20244000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -405,7 +317,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165661000" />
+    <option name="totallyTimeSpent" value="169155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -416,18 +328,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29826465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,14 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/border/border-width.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_inherit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -804,8 +708,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/border/border-bottom01.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/border/border-bottom-width.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
