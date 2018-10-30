@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-bottom-width.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-bottom-style.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +21,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="border-bottom-width.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="border-bottom-width.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/border/border-bottom-width.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="border-bottom-style.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/border/border-bottom-style.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
@@ -84,6 +94,7 @@
         <option value="$PROJECT_DIR$/border/border-right-color.html" />
         <option value="$PROJECT_DIR$/border/border-bottom01.html" />
         <option value="$PROJECT_DIR$/border/border-bottom-width.html" />
+        <option value="$PROJECT_DIR$/border/border-bottom-style.html" />
       </list>
     </option>
   </component>
@@ -190,10 +201,7 @@
       <recent name="E:\workspace\html5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.border-bottom-width.html">
-    <configuration default="false" name="border-top-style.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-top-style.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.border-bottom-style.html">
     <configuration default="false" name="border-top-color.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-top-color.html">
       <method />
     </configuration>
@@ -204,6 +212,9 @@
       <method />
     </configuration>
     <configuration default="false" name="border-bottom-width.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-bottom-width.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="border-bottom-style.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-bottom-style.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -263,19 +274,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-top-style.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-style.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-top-style.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-style.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-top-color.html" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +308,7 @@
       <workItem from="1540367122095" duration="20767000" />
       <workItem from="1540457002813" duration="4862000" />
       <workItem from="1540517772822" duration="9686000" />
-      <workItem from="1540775273968" duration="20244000" />
+      <workItem from="1540775273968" duration="20586000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -317,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169155000" />
+    <option name="totallyTimeSpent" value="169497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -358,13 +369,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css_inherit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -715,6 +719,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/border/border-bottom-width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/border/border-bottom-style.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
