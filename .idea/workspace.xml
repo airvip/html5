@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-bottom-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-bottom-color.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +31,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="border-bottom-style.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="border-bottom-style.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/border/border-bottom-style.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="border-bottom-color.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/border/border-bottom-color.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
@@ -54,10 +64,12 @@
     <findStrings>
       <find>-top</find>
       <find>top</find>
+      <find>right</find>
     </findStrings>
     <replaceStrings>
       <replace>-right</replace>
       <replace>-bottom</replace>
+      <replace>bottom</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -95,6 +107,7 @@
         <option value="$PROJECT_DIR$/border/border-bottom01.html" />
         <option value="$PROJECT_DIR$/border/border-bottom-width.html" />
         <option value="$PROJECT_DIR$/border/border-bottom-style.html" />
+        <option value="$PROJECT_DIR$/border/border-bottom-color.html" />
       </list>
     </option>
   </component>
@@ -308,7 +321,7 @@
       <workItem from="1540367122095" duration="20767000" />
       <workItem from="1540457002813" duration="4862000" />
       <workItem from="1540517772822" duration="9686000" />
-      <workItem from="1540775273968" duration="20586000" />
+      <workItem from="1540775273968" duration="21507000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -328,7 +341,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169497000" />
+    <option name="totallyTimeSpent" value="170418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -369,13 +382,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/background/background02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -727,6 +733,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/border/border-bottom-style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/border/border-bottom-color.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
