@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-radius.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/border/border-top-left-radius.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/border/border-radius.html" afterPath="$PROJECT_DIR$/border/border-radius.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,18 +65,28 @@
       <file leaf-file-name="border-radius.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/border/border-radius.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="border-right01.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="border-right01.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/border/border-right01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="396">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="border-top-left-radius.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/border/border-top-left-radius.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -130,7 +142,6 @@
         <option value="$PROJECT_DIR$/border/border-top-width.html" />
         <option value="$PROJECT_DIR$/border/border-top-style.html" />
         <option value="$PROJECT_DIR$/border/border-top-color.html" />
-        <option value="$PROJECT_DIR$/border/border-right01.html" />
         <option value="$PROJECT_DIR$/border/border-right-width.html" />
         <option value="$PROJECT_DIR$/border/border-right-style.html" />
         <option value="$PROJECT_DIR$/border/border-right-color.html" />
@@ -139,6 +150,9 @@
         <option value="$PROJECT_DIR$/border/border-bottom-style.html" />
         <option value="$PROJECT_DIR$/border/border-bottom-color.html" />
         <option value="$PROJECT_DIR$/border/border-left01.html" />
+        <option value="$PROJECT_DIR$/border/border-right01.html" />
+        <option value="$PROJECT_DIR$/border/border-top-left-radius.html" />
+        <option value="$PROJECT_DIR$/border/border-radius.html" />
       </list>
     </option>
   </component>
@@ -170,8 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,35 +208,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="border" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="background" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,10 +231,7 @@
       <recent name="E:\workspace\html5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.border-left01.html">
-    <configuration default="false" name="border-right01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-right01.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.border-top-left-radius.html">
     <configuration default="false" name="border-right-width.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-right-width.html">
       <method />
     </configuration>
@@ -259,6 +242,9 @@
       <method />
     </configuration>
     <configuration default="false" name="border-left01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-left01.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="border-top-left-radius.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5/border/border-top-left-radius.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -318,19 +304,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-style.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-left01.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-style.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-left01.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-top-left-radius.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-left01.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-style.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-right01.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.border-top-left-radius.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.border-left01.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-style.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.border-bottom-width.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.border-right-width.html" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +339,8 @@
       <workItem from="1540457002813" duration="4862000" />
       <workItem from="1540517772822" duration="9686000" />
       <workItem from="1540775273968" duration="28512000" />
-      <workItem from="1540968505245" duration="19521000" />
+      <workItem from="1540968505245" duration="26707000" />
+      <workItem from="1541405869407" duration="1278000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -373,13 +360,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196944000" />
+    <option name="totallyTimeSpent" value="205408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2815171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -414,13 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/background/background_color01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/background/background_image01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -755,18 +735,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/border/border-radius.html">
+    <entry file="file://$PROJECT_DIR$/border/border-right01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/border/border-right01.html">
+    <entry file="file://$PROJECT_DIR$/border/border-radius.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="418">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/border/border-top-left-radius.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
