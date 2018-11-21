@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/font-variant.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/font-weight.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-variant.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/font/font-variant.html">
+      <file leaf-file-name="font-weight.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/font/font-weight.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-variant.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/font/font-variant.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -140,6 +150,7 @@
         <option value="$PROJECT_DIR$/font/font.html" />
         <option value="$PROJECT_DIR$/font/font-style.html" />
         <option value="$PROJECT_DIR$/font/font-variant.html" />
+        <option value="$PROJECT_DIR$/font/font-weight.html" />
       </list>
     </option>
   </component>
@@ -345,7 +356,7 @@
       <workItem from="1540968505245" duration="26707000" />
       <workItem from="1541405869407" duration="21650000" />
       <workItem from="1542008675062" duration="21128000" />
-      <workItem from="1542614418546" duration="1471000" />
+      <workItem from="1542614418546" duration="5517000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -365,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248379000" />
+    <option name="totallyTimeSpent" value="252425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
@@ -406,13 +417,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/background/background01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/background/background_color01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -746,6 +750,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/font/font-variant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/font/font-style.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -754,10 +766,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/font/font-variant.html">
+    <entry file="file://$PROJECT_DIR$/font/font-weight.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
       </provider>
