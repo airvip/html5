@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d30d61-0537-412f-8b4e-7d6193f5af05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/font-family.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/font-stretch.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,16 +36,30 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
               <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <marker date="1543216531757" expanded="true" signature="31:475" ph="..." />
+                <marker date="1543216531757" expanded="true" signature="38:323" ph="..." />
+                <marker date="1543216531757" expanded="true" signature="106:315" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-family.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/font/font-family.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-family.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/font/font-family.html">
+      <file leaf-file-name="font-stretch.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/font/font-stretch.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -123,6 +137,7 @@
         <option value="$PROJECT_DIR$/font/font-weight.html" />
         <option value="$PROJECT_DIR$/font/font-size.html" />
         <option value="$PROJECT_DIR$/font/font-family.html" />
+        <option value="$PROJECT_DIR$/font/font-stretch.html" />
       </list>
     </option>
   </component>
@@ -329,7 +344,7 @@
       <workItem from="1541405869407" duration="21650000" />
       <workItem from="1542008675062" duration="21128000" />
       <workItem from="1542614418546" duration="6170000" />
-      <workItem from="1543194836933" duration="6347000" />
+      <workItem from="1543194836933" duration="8046000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1538967032359</created>
@@ -349,7 +364,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259425000" />
+    <option name="totallyTimeSpent" value="261124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
@@ -390,13 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/background/background_repeat01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_inherit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -732,14 +740,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding />
+          <folding>
+            <marker date="1543216531757" expanded="true" signature="31:475" ph="..." />
+            <marker date="1543216531757" expanded="true" signature="38:323" ph="..." />
+            <marker date="1543216531757" expanded="true" signature="106:315" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/font/font-family.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font/font-stretch.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
       </provider>
